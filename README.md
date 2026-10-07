@@ -1,6 +1,4 @@
-# Calculator
-My First GitHub Project
-[10/7/2026 8:30 PM] Baba Mehdi: <!DOCTYPE html>
+ <!DOCTYPE html>
 
 <html>
 
